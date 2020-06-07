@@ -1,0 +1,1001 @@
+credit_history,savings_balance,employment_duration,age,other_credit,housing,existing_loans_count,job,default
+Critical,Unknown,< 1 year,67,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,22,none,own,One,skilled,Default
+Critical,< 100 DM,4 - 7 years,49,none,own,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,45,none,other,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,53,none,other,Two,skilled,Default
+Good,Unknown,1 - 4 years,35,none,other,One,unskilled,No default
+Good,500 - 1000 DM,< 1 year,53,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,35,none,rent,One,management,No default
+Good,> 1000 DM,4 - 7 years,61,none,own,One,unskilled,No default
+Critical,< 100 DM,unknown,28,none,own,Two,management,Default
+Good,< 100 DM,< 1 year,25,none,rent,One,skilled,Default
+Good,< 100 DM,< 1 year,24,none,rent,One,skilled,Default
+Good,< 100 DM,1 - 4 years,22,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,60,none,own,Two,unskilled,Default
+Good,< 100 DM,1 - 4 years,28,none,rent,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,32,none,own,One,unskilled,Default
+Critical,Unknown,< 1 year,53,none,own,Two,skilled,No default
+Perfect,Unknown,< 1 year,25,bank,own,Three,skilled,No default
+Good,< 100 DM,< 1 year,44,none,other,One,management,Default
+Good,500 - 1000 DM,< 1 year,31,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,48,none,own,Three,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,44,none,rent,One,skilled,No default
+Critical,< 100 DM,< 1 year,48,none,rent,Two,unskilled,No default
+Critical,100 - 500 DM,< 1 year,44,none,own,One,skilled,No default
+Critical,Unknown,1 - 4 years,26,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,36,bank,own,One,unskilled,No default
+Perfect,< 100 DM,< 1 year,39,none,own,One,unskilled,No default
+Very good,> 1000 DM,1 - 4 years,42,none,rent,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,34,none,own,One,skilled,No default
+Poor,< 100 DM,< 1 year,63,none,own,Two,skilled,Default
+Good,> 1000 DM,< 1 year,36,bank,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,27,store,own,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,30,none,own,Two,skilled,No default
+Critical,Unknown,< 1 year,57,none,rent,One,unskilled,No default
+Good,< 100 DM,< 1 year,33,bank,own,One,management,No default
+Critical,< 100 DM,< 1 year,25,none,own,Two,unskilled,Default
+Critical,< 100 DM,1 - 4 years,31,bank,other,One,skilled,No default
+Good,< 100 DM,1 - 4 years,37,store,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,37,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,24,none,own,One,skilled,No default
+Good,500 - 1000 DM,< 1 year,30,bank,own,One,management,No default
+Good,500 - 1000 DM,1 - 4 years,26,none,own,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,44,none,own,One,unskilled,No default
+Critical,100 - 500 DM,4 - 7 years,24,none,rent,Two,skilled,No default
+Critical,< 100 DM,< 1 year,58,store,other,Two,unskilled,Default
+Critical,< 100 DM,< 1 year,35,none,own,Two,management,No default
+Good,500 - 1000 DM,< 1 year,39,none,own,One,skilled,No default
+Good,500 - 1000 DM,unknown,23,none,rent,One,99,No default
+Critical,< 100 DM,1 - 4 years,39,none,own,Two,unskilled,No default
+Good,100 - 500 DM,1 - 4 years,28,none,own,One,skilled,No default
+Poor,Unknown,< 1 year,29,bank,own,One,unskilled,No default
+Poor,< 100 DM,< 1 year,30,none,own,Two,management,No default
+Good,< 100 DM,1 - 4 years,25,none,own,One,skilled,No default
+Good,Unknown,1 - 4 years,31,none,own,One,skilled,No default
+Poor,< 100 DM,< 1 year,57,bank,other,Two,skilled,Default
+Very good,Unknown,1 - 4 years,26,store,own,One,unskilled,No default
+Good,Unknown,unknown,52,none,own,One,management,Default
+Critical,< 100 DM,1 - 4 years,31,store,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,23,none,own,One,management,No default
+Critical,< 100 DM,< 1 year,23,none,rent,Two,unskilled,Default
+Good,< 100 DM,1 - 4 years,27,bank,own,One,skilled,No default
+Critical,Unknown,< 1 year,50,none,own,Two,skilled,No default
+Perfect,< 100 DM,< 1 year,61,none,other,One,management,Default
+Perfect,< 100 DM,1 - 4 years,25,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,No default
+Good,Unknown,< 1 year,48,none,own,Four,skilled,No default
+Good,< 100 DM,< 1 year,29,bank,own,One,skilled,No default
+Good,> 1000 DM,1 - 4 years,22,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,37,store,other,One,skilled,Default
+Good,Unknown,1 - 4 years,25,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,30,bank,own,One,skilled,No default
+Critical,Unknown,< 1 year,46,none,rent,Two,unskilled,No default
+Critical,< 100 DM,< 1 year,51,bank,other,Two,management,No default
+Critical,< 100 DM,4 - 7 years,41,bank,own,Two,unskilled,No default
+Good,Unknown,< 1 year,40,none,own,One,management,Default
+Critical,< 100 DM,< 1 year,66,none,other,Two,management,No default
+Good,< 100 DM,< 1 year,34,none,own,One,skilled,Default
+Poor,< 100 DM,4 - 7 years,51,none,own,One,skilled,No default
+Perfect,Unknown,1 - 4 years,39,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,22,none,own,One,skilled,No default
+Good,Unknown,< 1 year,44,none,own,Two,skilled,Default
+Good,500 - 1000 DM,< 1 year,47,store,own,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,24,none,rent,One,unskilled,No default
+Good,< 100 DM,< 1 year,58,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,52,none,own,One,unskilled,No default
+Critical,< 100 DM,1 - 4 years,29,none,own,Two,management,No default
+Critical,< 100 DM,< 1 year,27,none,own,Two,skilled,No default
+Good,100 - 500 DM,1 - 4 years,47,none,other,One,skilled,Default
+Good,100 - 500 DM,4 - 7 years,30,none,own,One,management,No default
+Perfect,< 100 DM,4 - 7 years,28,none,own,Two,skilled,Default
+Critical,< 100 DM,< 1 year,56,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,54,none,own,One,skilled,No default
+Critical,Unknown,< 1 year,33,bank,own,One,unskilled,Default
+Critical,Unknown,< 1 year,20,none,rent,Two,skilled,No default
+Good,> 1000 DM,< 1 year,54,none,own,One,skilled,No default
+Perfect,< 100 DM,< 1 year,58,none,rent,One,skilled,Default
+Critical,Unknown,4 - 7 years,61,none,own,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,34,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,36,none,own,One,skilled,No default
+Poor,Unknown,4 - 7 years,36,bank,rent,Two,management,No default
+Good,100 - 500 DM,< 1 year,41,none,rent,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,24,none,rent,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,24,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,35,none,rent,One,skilled,No default
+Good,Unknown,< 1 year,26,none,rent,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,39,none,own,Two,management,Default
+Very good,< 100 DM,< 1 year,39,bank,own,Two,management,Default
+Good,< 100 DM,4 - 7 years,32,none,own,One,skilled,No default
+Good,Unknown,< 1 year,30,none,own,One,skilled,No default
+Good,500 - 1000 DM,< 1 year,35,none,own,One,skilled,No default
+Poor,100 - 500 DM,< 1 year,31,bank,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,23,none,rent,One,skilled,No default
+Good,< 100 DM,4 - 7 years,28,none,rent,One,unskilled,No default
+Critical,< 100 DM,1 - 4 years,25,store,own,Two,skilled,Default
+Good,500 - 1000 DM,< 1 year,35,none,own,One,skilled,No default
+Critical,Unknown,< 1 year,47,none,own,One,skilled,No default
+Good,Unknown,4 - 7 years,30,none,own,One,management,Default
+Critical,Unknown,< 1 year,27,none,rent,Two,skilled,No default
+Critical,500 - 1000 DM,1 - 4 years,23,none,own,Two,skilled,Default
+Critical,500 - 1000 DM,4 - 7 years,36,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,25,none,own,Two,skilled,Default
+Critical,< 100 DM,< 1 year,41,none,rent,Two,management,No default
+Good,< 100 DM,1 - 4 years,24,none,rent,One,unskilled,No default
+Critical,< 100 DM,< 1 year,63,none,other,Two,skilled,No default
+Good,Unknown,< 1 year,27,none,rent,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,30,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,40,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,30,none,own,One,skilled,Default
+Critical,< 100 DM,unknown,34,none,own,Two,management,No default
+Critical,< 100 DM,1 - 4 years,29,none,own,Two,skilled,Default
+Good,Unknown,4 - 7 years,24,none,own,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,29,store,own,One,skilled,Default
+Good,< 100 DM,< 1 year,27,bank,own,Two,unskilled,No default
+Good,< 100 DM,1 - 4 years,47,bank,other,Two,skilled,No default
+Good,100 - 500 DM,4 - 7 years,21,none,own,One,skilled,No default
+Critical,Unknown,< 1 year,38,none,own,Two,skilled,No default
+Poor,> 1000 DM,1 - 4 years,27,none,own,Two,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,66,none,own,One,unskilled,Default
+Critical,Unknown,4 - 7 years,35,bank,own,Three,skilled,No default
+Good,< 100 DM,1 - 4 years,44,none,rent,One,unskilled,No default
+Good,> 1000 DM,< 1 year,27,none,own,One,99,No default
+Good,< 100 DM,< 1 year,30,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,27,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,22,none,own,One,skilled,Default
+Critical,< 100 DM,< 1 year,23,none,own,One,skilled,No default
+Very good,100 - 500 DM,4 - 7 years,30,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,39,none,own,Two,skilled,No default
+Critical,100 - 500 DM,4 - 7 years,51,none,own,Two,skilled,No default
+Critical,< 100 DM,1 - 4 years,28,none,own,Two,skilled,No default
+Critical,> 1000 DM,< 1 year,46,none,own,Two,skilled,No default
+Good,100 - 500 DM,< 1 year,42,bank,other,One,skilled,No default
+Good,< 100 DM,1 - 4 years,38,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,24,none,own,One,skilled,No default
+Critical,> 1000 DM,< 1 year,29,none,rent,One,skilled,No default
+Poor,100 - 500 DM,4 - 7 years,36,none,rent,One,management,No default
+Good,< 100 DM,1 - 4 years,20,none,rent,One,skilled,Default
+Critical,100 - 500 DM,< 1 year,48,none,own,Two,skilled,No default
+Very good,< 100 DM,< 1 year,45,bank,own,One,unskilled,No default
+Good,100 - 500 DM,4 - 7 years,38,bank,own,Two,skilled,No default
+Critical,Unknown,1 - 4 years,34,none,own,Two,unskilled,No default
+Critical,100 - 500 DM,< 1 year,36,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,30,none,own,Two,skilled,No default
+Good,500 - 1000 DM,4 - 7 years,36,none,own,Two,skilled,No default
+Good,< 100 DM,unknown,70,bank,other,One,management,No default
+Good,500 - 1000 DM,< 1 year,36,none,own,One,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,32,none,own,One,skilled,No default
+Good,< 100 DM,unknown,33,none,own,One,skilled,Default
+Good,> 1000 DM,< 1 year,20,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,25,none,rent,One,skilled,No default
+Critical,< 100 DM,< 1 year,31,none,own,Two,skilled,Default
+Perfect,< 100 DM,< 1 year,33,none,rent,Two,skilled,Default
+Good,< 100 DM,1 - 4 years,26,none,own,One,skilled,No default
+Poor,< 100 DM,unknown,34,none,own,One,management,Default
+Good,< 100 DM,1 - 4 years,33,none,own,One,skilled,No default
+Poor,< 100 DM,< 1 year,26,none,own,Two,skilled,Default
+Very good,Unknown,unknown,53,bank,own,One,management,Default
+Good,< 100 DM,1 - 4 years,42,none,own,One,skilled,No default
+Critical,500 - 1000 DM,< 1 year,52,none,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,31,none,rent,Two,management,No default
+Critical,< 100 DM,< 1 year,65,none,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,28,none,own,Two,skilled,Default
+Poor,< 100 DM,1 - 4 years,30,store,own,Two,management,Default
+Very good,Unknown,1 - 4 years,40,none,own,Two,unskilled,Default
+Critical,> 1000 DM,1 - 4 years,50,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,36,bank,own,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,31,none,own,Two,skilled,No default
+Very good,< 100 DM,< 1 year,74,bank,other,One,management,Default
+Critical,< 100 DM,unknown,68,none,other,Three,99,No default
+Good,100 - 500 DM,4 - 7 years,20,none,own,One,skilled,Default
+Perfect,< 100 DM,1 - 4 years,33,bank,own,Two,skilled,No default
+Good,> 1000 DM,1 - 4 years,54,none,own,Three,management,Default
+Perfect,100 - 500 DM,4 - 7 years,34,none,other,One,unskilled,Default
+Good,< 100 DM,1 - 4 years,36,none,own,One,skilled,Default
+Good,< 100 DM,4 - 7 years,29,none,rent,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,21,none,rent,One,skilled,Default
+Critical,< 100 DM,< 1 year,34,none,own,Two,management,Default
+Critical,< 100 DM,1 - 4 years,28,none,own,Two,skilled,No default
+Good,100 - 500 DM,< 1 year,27,bank,rent,Four,skilled,Default
+Good,Unknown,< 1 year,36,bank,other,One,skilled,No default
+Poor,< 100 DM,< 1 year,40,none,own,One,management,Default
+Critical,500 - 1000 DM,< 1 year,52,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,27,none,own,One,unskilled,No default
+Poor,< 100 DM,4 - 7 years,26,none,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,21,none,rent,One,skilled,Default
+Critical,< 100 DM,< 1 year,38,none,own,Two,unskilled,No default
+Critical,< 100 DM,< 1 year,38,none,other,Three,management,No default
+Critical,< 100 DM,< 1 year,43,none,own,Three,skilled,No default
+Critical,< 100 DM,4 - 7 years,26,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,21,store,own,One,unskilled,No default
+Good,> 1000 DM,4 - 7 years,55,none,own,One,skilled,No default
+Critical,Unknown,1 - 4 years,33,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,45,none,own,One,unskilled,No default
+Perfect,< 100 DM,unknown,50,store,own,Two,skilled,Default
+Poor,< 100 DM,< 1 year,66,none,own,One,management,Default
+Critical,Unknown,< 1 year,51,none,own,One,skilled,No default
+Critical,Unknown,4 - 7 years,39,none,own,Two,unskilled,No default
+Perfect,< 100 DM,4 - 7 years,31,bank,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,23,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,24,none,rent,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,64,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,26,bank,own,One,unskilled,No default
+Good,Unknown,1 - 4 years,23,bank,rent,One,skilled,No default
+Good,< 100 DM,1 - 4 years,30,bank,own,Two,skilled,No default
+Poor,Unknown,1 - 4 years,32,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,30,none,own,One,skilled,No default
+Perfect,< 100 DM,1 - 4 years,27,none,own,Two,skilled,No default
+Good,> 1000 DM,4 - 7 years,27,bank,own,Two,skilled,Default
+Good,< 100 DM,< 1 year,53,none,other,One,management,Default
+Good,< 100 DM,4 - 7 years,22,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,22,bank,other,One,skilled,No default
+Good,< 100 DM,1 - 4 years,26,none,own,One,skilled,Default
+Good,500 - 1000 DM,< 1 year,51,none,other,One,unskilled,No default
+Good,100 - 500 DM,4 - 7 years,35,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,25,none,own,One,unskilled,No default
+Critical,< 100 DM,4 - 7 years,42,none,own,Three,unskilled,No default
+Good,< 100 DM,unknown,30,store,own,One,management,Default
+Good,Unknown,unknown,23,none,own,One,99,Default
+Good,100 - 500 DM,< 1 year,61,bank,rent,Two,unskilled,Default
+Critical,< 100 DM,1 - 4 years,35,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,39,none,own,One,skilled,No default
+Good,Unknown,< 1 year,29,bank,own,One,skilled,Default
+Good,< 100 DM,4 - 7 years,51,none,own,One,skilled,No default
+Perfect,< 100 DM,< 1 year,24,none,other,Two,skilled,Default
+Critical,< 100 DM,1 - 4 years,27,none,own,Two,skilled,No default
+Very good,500 - 1000 DM,1 - 4 years,35,none,own,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,25,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,52,none,own,Three,skilled,No default
+Perfect,100 - 500 DM,1 - 4 years,35,bank,rent,One,skilled,No default
+Good,< 100 DM,1 - 4 years,26,none,own,One,skilled,No default
+Good,< 100 DM,unknown,22,none,rent,One,skilled,Default
+Critical,> 1000 DM,4 - 7 years,39,none,own,Two,unskilled,No default
+Good,< 100 DM,1 - 4 years,46,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,24,bank,own,One,skilled,Default
+Poor,100 - 500 DM,1 - 4 years,35,none,own,Two,skilled,No default
+Good,Unknown,4 - 7 years,24,none,own,One,skilled,No default
+Poor,Unknown,1 - 4 years,27,none,own,One,unskilled,No default
+Critical,< 100 DM,1 - 4 years,35,none,own,Two,unskilled,No default
+Very good,< 100 DM,1 - 4 years,29,none,other,One,skilled,Default
+Good,100 - 500 DM,< 1 year,23,none,own,One,skilled,No default
+Critical,100 - 500 DM,unknown,57,none,own,Three,unskilled,No default
+Good,< 100 DM,1 - 4 years,27,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,55,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,36,none,other,Three,management,No default
+Critical,< 100 DM,< 1 year,57,bank,other,Three,unskilled,No default
+Critical,< 100 DM,< 1 year,32,none,own,Two,unskilled,No default
+Good,< 100 DM,< 1 year,37,none,own,One,skilled,Default
+Critical,Unknown,< 1 year,36,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,38,store,own,One,skilled,No default
+Good,< 100 DM,< 1 year,45,none,own,One,management,Default
+Good,Unknown,< 1 year,25,none,own,Two,skilled,No default
+Good,Unknown,4 - 7 years,32,none,own,One,skilled,No default
+Critical,500 - 1000 DM,4 - 7 years,37,none,rent,One,skilled,No default
+Very good,Unknown,unknown,36,none,other,One,management,No default
+Good,< 100 DM,4 - 7 years,28,none,own,Two,skilled,Default
+Good,< 100 DM,< 1 year,34,none,own,One,unskilled,Default
+Good,< 100 DM,1 - 4 years,32,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,26,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,49,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,32,none,own,One,skilled,Default
+Good,100 - 500 DM,1 - 4 years,29,none,rent,One,management,No default
+Critical,> 1000 DM,< 1 year,23,none,rent,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,50,none,own,One,skilled,No default
+Very good,Unknown,4 - 7 years,49,bank,own,One,unskilled,No default
+Critical,Unknown,< 1 year,63,none,own,One,skilled,No default
+Critical,100 - 500 DM,< 1 year,37,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,35,none,own,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,26,none,own,One,skilled,No default
+Poor,100 - 500 DM,unknown,31,none,other,One,management,No default
+Good,< 100 DM,1 - 4 years,49,none,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,48,store,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,26,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,28,none,rent,One,management,Default
+Critical,< 100 DM,< 1 year,44,none,other,Two,management,No default
+Critical,< 100 DM,< 1 year,56,none,other,One,skilled,No default
+Critical,Unknown,< 1 year,46,bank,own,Two,management,No default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,Default
+Good,Unknown,< 1 year,20,none,rent,One,skilled,No default
+Good,Unknown,< 1 year,45,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,43,none,own,One,skilled,No default
+Critical,> 1000 DM,4 - 7 years,32,none,own,Two,skilled,No default
+Good,< 100 DM,unknown,54,none,own,One,99,No default
+Perfect,< 100 DM,1 - 4 years,42,none,own,One,skilled,Default
+Critical,Unknown,4 - 7 years,37,bank,own,Two,unskilled,Default
+Critical,< 100 DM,4 - 7 years,49,none,own,Two,skilled,No default
+Critical,500 - 1000 DM,1 - 4 years,44,bank,other,One,skilled,Default
+Good,> 1000 DM,1 - 4 years,33,none,own,One,skilled,No default
+Good,Unknown,4 - 7 years,24,store,rent,One,unskilled,No default
+Good,100 - 500 DM,< 1 year,33,none,own,One,unskilled,Default
+Good,< 100 DM,1 - 4 years,24,none,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,22,none,rent,One,unskilled,No default
+Good,Unknown,unknown,40,bank,other,One,99,No default
+Good,100 - 500 DM,1 - 4 years,25,store,own,One,skilled,No default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,25,bank,own,One,unskilled,Default
+Good,Unknown,< 1 year,29,none,own,One,unskilled,No default
+Very good,< 100 DM,< 1 year,31,bank,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,38,none,own,One,unskilled,No default
+Good,Unknown,1 - 4 years,48,none,own,One,unskilled,No default
+Critical,< 100 DM,1 - 4 years,32,none,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,27,none,own,Two,unskilled,No default
+Critical,< 100 DM,unknown,28,none,own,Two,management,Default
+Good,< 100 DM,< 1 year,32,none,own,One,skilled,Default
+Good,< 100 DM,4 - 7 years,34,none,other,One,management,No default
+Good,> 1000 DM,1 - 4 years,28,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,36,none,own,Two,skilled,No default
+Critical,< 100 DM,4 - 7 years,39,none,own,Two,unskilled,No default
+Critical,Unknown,< 1 year,49,none,rent,One,skilled,No default
+Good,> 1000 DM,4 - 7 years,34,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,31,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,28,none,own,One,skilled,No default
+Critical,< 100 DM,unknown,75,none,other,Two,management,No default
+Critical,100 - 500 DM,1 - 4 years,30,none,own,Two,skilled,Default
+Good,100 - 500 DM,< 1 year,24,none,own,One,management,Default
+Critical,100 - 500 DM,1 - 4 years,24,bank,rent,Two,unskilled,Default
+Perfect,< 100 DM,< 1 year,23,bank,rent,Two,skilled,Default
+Critical,< 100 DM,1 - 4 years,44,none,rent,One,management,Default
+Good,< 100 DM,< 1 year,23,none,own,One,unskilled,No default
+Good,Unknown,1 - 4 years,24,none,rent,One,skilled,Default
+Good,< 100 DM,1 - 4 years,28,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,31,none,own,One,unskilled,No default
+Critical,< 100 DM,< 1 year,24,none,other,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,26,none,rent,One,unskilled,No default
+Good,500 - 1000 DM,< 1 year,25,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,33,bank,own,One,management,No default
+Good,< 100 DM,< 1 year,37,none,own,One,unskilled,No default
+Critical,< 100 DM,1 - 4 years,43,none,own,One,unskilled,No default
+Critical,< 100 DM,< 1 year,23,none,own,Two,skilled,No default
+Good,500 - 1000 DM,unknown,23,none,rent,One,99,No default
+Poor,100 - 500 DM,1 - 4 years,34,none,own,Two,unskilled,No default
+Critical,> 1000 DM,< 1 year,32,none,other,Two,skilled,Default
+Good,< 100 DM,< 1 year,23,none,rent,One,skilled,No default
+Good,< 100 DM,1 - 4 years,29,none,own,One,skilled,Default
+Critical,Unknown,unknown,38,none,own,One,management,No default
+Perfect,< 100 DM,1 - 4 years,28,none,rent,Two,skilled,Default
+Good,500 - 1000 DM,< 1 year,46,none,other,One,skilled,No default
+Good,< 100 DM,< 1 year,23,store,own,One,unskilled,Default
+Critical,Unknown,< 1 year,49,none,own,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,26,none,own,Two,management,Default
+Good,< 100 DM,1 - 4 years,28,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,23,none,rent,One,skilled,Default
+Good,Unknown,1 - 4 years,61,none,other,One,skilled,No default
+Good,Unknown,< 1 year,37,none,own,One,management,No default
+Poor,< 100 DM,1 - 4 years,36,store,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,21,none,rent,One,skilled,No default
+Good,< 100 DM,unknown,25,none,own,One,99,Default
+Good,< 100 DM,4 - 7 years,36,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,27,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,22,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,42,none,own,One,skilled,Default
+Good,< 100 DM,4 - 7 years,40,none,rent,One,skilled,No default
+Good,Unknown,1 - 4 years,36,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,33,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,23,none,rent,Two,skilled,No default
+Critical,Unknown,< 1 year,63,bank,other,One,management,No default
+Very good,100 - 500 DM,< 1 year,60,bank,other,Two,management,Default
+Very good,< 100 DM,4 - 7 years,37,none,rent,One,skilled,Default
+Poor,< 100 DM,unknown,34,none,own,Two,skilled,No default
+Poor,Unknown,< 1 year,36,none,other,One,skilled,No default
+Good,< 100 DM,< 1 year,57,none,other,One,management,Default
+Critical,100 - 500 DM,1 - 4 years,52,none,own,Two,unskilled,No default
+Good,Unknown,4 - 7 years,39,none,own,One,skilled,No default
+Good,< 100 DM,unknown,38,none,other,One,management,Default
+Good,Unknown,4 - 7 years,25,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,No default
+Poor,100 - 500 DM,1 - 4 years,26,none,own,Two,unskilled,No default
+Critical,< 100 DM,1 - 4 years,25,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,21,none,rent,One,skilled,No default
+Critical,< 100 DM,unknown,40,store,own,Two,management,No default
+Critical,500 - 1000 DM,1 - 4 years,27,bank,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,27,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,30,none,own,One,management,No default
+Good,> 1000 DM,< 1 year,19,none,rent,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,39,bank,other,One,management,No default
+Critical,< 100 DM,4 - 7 years,31,none,own,One,skilled,No default
+Critical,< 100 DM,unknown,31,none,own,One,management,No default
+Poor,100 - 500 DM,4 - 7 years,32,none,rent,One,skilled,No default
+Good,< 100 DM,unknown,55,none,other,One,management,No default
+Critical,< 100 DM,1 - 4 years,46,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,46,none,rent,Two,skilled,Default
+Critical,> 1000 DM,1 - 4 years,43,none,own,Two,unskilled,No default
+Good,< 100 DM,< 1 year,39,none,own,One,skilled,No default
+Critical,Unknown,1 - 4 years,28,bank,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,27,bank,own,Two,skilled,Default
+Poor,< 100 DM,1 - 4 years,27,none,own,Two,unskilled,No default
+Poor,Unknown,< 1 year,43,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,22,none,own,One,skilled,Default
+Critical,Unknown,4 - 7 years,43,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,27,none,own,One,skilled,No default
+Good,500 - 1000 DM,< 1 year,26,none,own,One,management,No default
+Critical,500 - 1000 DM,4 - 7 years,28,none,own,Three,skilled,Default
+Good,< 100 DM,< 1 year,20,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,35,none,own,Two,management,No default
+Critical,< 100 DM,unknown,42,store,own,Two,management,Default
+Good,500 - 1000 DM,1 - 4 years,40,none,rent,One,unskilled,No default
+Good,Unknown,1 - 4 years,35,none,own,One,skilled,Default
+Critical,< 100 DM,< 1 year,35,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,33,none,own,One,unskilled,Default
+Poor,Unknown,1 - 4 years,23,none,rent,Two,skilled,No default
+Good,500 - 1000 DM,4 - 7 years,31,bank,own,One,management,No default
+Good,Unknown,1 - 4 years,33,none,own,One,skilled,Default
+Good,> 1000 DM,4 - 7 years,20,none,rent,One,skilled,No default
+Good,Unknown,1 - 4 years,30,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,47,none,own,Two,unskilled,No default
+Poor,100 - 500 DM,4 - 7 years,34,none,own,Two,management,No default
+Good,Unknown,< 1 year,25,bank,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,21,none,rent,One,skilled,No default
+Critical,< 100 DM,< 1 year,29,none,own,Two,skilled,No default
+Critical,> 1000 DM,1 - 4 years,46,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,20,none,own,One,skilled,No default
+Critical,< 100 DM,unknown,55,none,other,Three,99,Default
+Good,< 100 DM,4 - 7 years,74,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,29,bank,own,Two,management,Default
+Critical,< 100 DM,unknown,36,none,other,Three,management,No default
+Critical,< 100 DM,1 - 4 years,33,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,25,none,own,One,skilled,No default
+Good,Unknown,1 - 4 years,25,none,own,One,skilled,Default
+Good,500 - 1000 DM,4 - 7 years,23,none,rent,One,unskilled,No default
+Critical,> 1000 DM,< 1 year,37,none,own,Two,skilled,No default
+Critical,< 100 DM,unknown,65,none,own,Two,99,No default
+Very good,< 100 DM,< 1 year,26,none,own,One,99,Default
+Good,< 100 DM,< 1 year,39,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,30,none,own,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,29,bank,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,41,bank,own,One,unskilled,Default
+Critical,< 100 DM,1 - 4 years,30,none,own,One,management,Default
+Critical,Unknown,< 1 year,41,none,rent,Two,unskilled,No default
+Good,< 100 DM,< 1 year,34,none,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,35,none,own,One,skilled,No default
+Good,Unknown,< 1 year,55,none,own,One,management,No default
+Poor,> 1000 DM,1 - 4 years,61,store,own,Two,skilled,Default
+Critical,Unknown,1 - 4 years,30,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,29,none,own,One,skilled,No default
+Perfect,< 100 DM,< 1 year,34,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,35,none,own,One,management,No default
+Good,< 100 DM,4 - 7 years,31,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,29,none,own,One,management,No default
+Critical,< 100 DM,1 - 4 years,36,none,rent,Two,skilled,No default
+Good,< 100 DM,< 1 year,35,none,other,One,skilled,Default
+Good,< 100 DM,< 1 year,27,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,32,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,37,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,36,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,34,none,rent,One,management,No default
+Good,Unknown,< 1 year,38,none,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,34,store,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,63,bank,own,One,skilled,No default
+Poor,< 100 DM,< 1 year,29,none,rent,One,unskilled,Default
+Poor,Unknown,< 1 year,32,bank,own,Two,skilled,No default
+Poor,< 100 DM,1 - 4 years,26,none,own,Two,skilled,No default
+Poor,< 100 DM,4 - 7 years,35,none,own,Two,unskilled,No default
+Good,100 - 500 DM,< 1 year,22,none,rent,One,skilled,Default
+Good,< 100 DM,< 1 year,23,none,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,28,none,own,One,unskilled,Default
+Good,Unknown,unknown,36,none,own,One,management,No default
+Critical,< 100 DM,1 - 4 years,33,none,own,One,skilled,Default
+Perfect,< 100 DM,< 1 year,26,none,rent,One,skilled,Default
+Good,500 - 1000 DM,1 - 4 years,24,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,25,bank,own,One,skilled,No default
+Good,100 - 500 DM,4 - 7 years,39,none,own,One,unskilled,No default
+Critical,< 100 DM,< 1 year,44,none,own,Two,skilled,No default
+Critical,< 100 DM,1 - 4 years,23,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,No default
+Good,> 1000 DM,< 1 year,57,none,rent,Two,skilled,No default
+Poor,> 1000 DM,4 - 7 years,30,none,own,Two,skilled,No default
+Critical,500 - 1000 DM,1 - 4 years,44,none,own,One,skilled,No default
+Poor,< 100 DM,unknown,47,none,own,One,management,Default
+Good,< 100 DM,1 - 4 years,52,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,62,none,other,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,35,none,rent,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,26,none,rent,One,skilled,No default
+Critical,< 100 DM,< 1 year,26,none,own,Two,skilled,No default
+Perfect,< 100 DM,< 1 year,42,none,other,Two,management,Default
+Critical,100 - 500 DM,1 - 4 years,27,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,38,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,39,none,rent,Two,unskilled,No default
+Good,Unknown,1 - 4 years,20,none,own,One,skilled,Default
+Good,100 - 500 DM,< 1 year,29,none,rent,One,management,Default
+Critical,< 100 DM,4 - 7 years,40,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,32,none,own,One,unskilled,No default
+Critical,100 - 500 DM,< 1 year,28,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,27,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,42,none,other,One,skilled,No default
+Good,100 - 500 DM,< 1 year,49,none,own,One,skilled,No default
+Critical,100 - 500 DM,< 1 year,38,bank,own,Two,skilled,Default
+Good,< 100 DM,< 1 year,24,none,rent,One,skilled,Default
+Good,Unknown,1 - 4 years,27,none,own,One,unskilled,Default
+Critical,500 - 1000 DM,1 - 4 years,36,none,own,One,skilled,No default
+Very good,100 - 500 DM,unknown,34,none,own,One,management,Default
+Good,< 100 DM,1 - 4 years,28,none,own,One,skilled,No default
+Good,100 - 500 DM,< 1 year,45,none,own,One,management,No default
+Good,< 100 DM,4 - 7 years,26,none,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,32,none,other,One,management,No default
+Good,< 100 DM,4 - 7 years,26,none,rent,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,20,none,rent,Two,skilled,No default
+Good,Unknown,< 1 year,54,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,37,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,40,none,own,One,unskilled,No default
+Critical,< 100 DM,< 1 year,23,none,rent,Two,skilled,Default
+Good,100 - 500 DM,< 1 year,43,none,own,One,skilled,No default
+Critical,Unknown,< 1 year,36,none,other,Two,skilled,No default
+Critical,< 100 DM,< 1 year,44,none,other,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,24,none,own,One,skilled,Default
+Perfect,< 100 DM,1 - 4 years,53,none,other,Two,skilled,Default
+Good,100 - 500 DM,4 - 7 years,23,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,26,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,30,none,own,Two,skilled,No default
+Critical,100 - 500 DM,1 - 4 years,31,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,42,none,own,Two,unskilled,No default
+Good,< 100 DM,1 - 4 years,31,none,rent,One,skilled,Default
+Good,< 100 DM,< 1 year,41,none,own,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,32,none,own,Two,skilled,No default
+Good,100 - 500 DM,1 - 4 years,28,none,rent,Two,skilled,Default
+Poor,< 100 DM,1 - 4 years,41,none,rent,One,skilled,No default
+Good,100 - 500 DM,4 - 7 years,26,none,own,One,skilled,No default
+Good,Unknown,< 1 year,25,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,33,none,rent,One,skilled,Default
+Good,Unknown,unknown,75,none,own,One,management,No default
+Critical,< 100 DM,< 1 year,37,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,42,bank,other,One,management,Default
+Good,< 100 DM,< 1 year,45,store,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,23,none,rent,One,skilled,Default
+Poor,< 100 DM,< 1 year,60,none,other,Two,skilled,No default
+Good,Unknown,< 1 year,31,none,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,34,none,own,One,unskilled,Default
+Critical,< 100 DM,< 1 year,61,none,own,Two,unskilled,No default
+Poor,< 100 DM,unknown,43,none,other,Two,skilled,Default
+Critical,< 100 DM,1 - 4 years,37,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,32,bank,own,One,skilled,No default
+Very good,< 100 DM,1 - 4 years,24,bank,own,One,unskilled,Default
+Critical,Unknown,4 - 7 years,35,none,other,Two,skilled,No default
+Critical,Unknown,4 - 7 years,23,none,own,Two,skilled,No default
+Very good,500 - 1000 DM,< 1 year,45,bank,own,One,unskilled,No default
+Good,< 100 DM,4 - 7 years,34,none,own,Two,skilled,Default
+Critical,100 - 500 DM,< 1 year,27,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,67,none,own,Two,management,No default
+Good,< 100 DM,< 1 year,22,store,own,One,skilled,Default
+Perfect,100 - 500 DM,< 1 year,28,none,own,Two,skilled,Default
+Perfect,Unknown,1 - 4 years,29,bank,own,Two,skilled,Default
+Very good,< 100 DM,4 - 7 years,27,bank,own,One,skilled,Default
+Critical,< 100 DM,< 1 year,31,none,own,Two,unskilled,Default
+Good,Unknown,< 1 year,49,bank,other,One,skilled,No default
+Very good,< 100 DM,4 - 7 years,24,bank,rent,One,unskilled,Default
+Poor,< 100 DM,< 1 year,29,bank,own,One,skilled,No default
+Good,Unknown,1 - 4 years,37,none,other,One,skilled,Default
+Poor,Unknown,1 - 4 years,37,bank,own,Two,management,No default
+Poor,100 - 500 DM,4 - 7 years,23,none,rent,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,36,none,own,One,skilled,Default
+Critical,> 1000 DM,< 1 year,34,none,own,One,skilled,No default
+Good,Unknown,4 - 7 years,41,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,31,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,23,none,rent,One,unskilled,Default
+Critical,< 100 DM,4 - 7 years,38,none,own,One,skilled,No default
+Good,Unknown,unknown,26,none,rent,One,management,No default
+Good,< 100 DM,1 - 4 years,22,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,27,none,own,Two,unskilled,No default
+Critical,< 100 DM,4 - 7 years,24,bank,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,27,none,own,One,skilled,No default
+Critical,Unknown,1 - 4 years,33,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,27,none,own,Two,skilled,Default
+Good,< 100 DM,< 1 year,27,none,own,Two,unskilled,No default
+Critical,< 100 DM,< 1 year,30,bank,own,Two,skilled,Default
+Critical,< 100 DM,< 1 year,49,bank,own,Two,unskilled,No default
+Good,< 100 DM,1 - 4 years,26,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,33,none,rent,One,unskilled,Default
+Good,Unknown,< 1 year,52,none,other,One,management,No default
+Good,< 100 DM,1 - 4 years,20,bank,rent,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,36,none,rent,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,21,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,47,none,own,One,unskilled,Default
+Critical,< 100 DM,< 1 year,60,none,own,Two,skilled,Default
+Critical,< 100 DM,4 - 7 years,58,none,own,Four,unskilled,No default
+Poor,Unknown,1 - 4 years,42,none,rent,Two,skilled,No default
+Good,> 1000 DM,< 1 year,36,bank,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,20,none,rent,One,unskilled,Default
+Very good,Unknown,< 1 year,40,store,own,One,management,Default
+Very good,100 - 500 DM,< 1 year,32,store,own,One,unskilled,Default
+Good,< 100 DM,4 - 7 years,23,none,rent,Two,skilled,Default
+Perfect,< 100 DM,1 - 4 years,36,none,own,Three,unskilled,Default
+Critical,< 100 DM,4 - 7 years,31,bank,own,Two,skilled,Default
+Poor,< 100 DM,1 - 4 years,32,none,other,One,skilled,No default
+Good,< 100 DM,< 1 year,45,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,30,none,own,One,skilled,Default
+Very good,< 100 DM,4 - 7 years,34,bank,other,One,unskilled,Default
+Good,< 100 DM,1 - 4 years,28,none,own,One,management,Default
+Good,< 100 DM,< 1 year,23,none,own,One,skilled,No default
+Very good,500 - 1000 DM,1 - 4 years,22,store,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,74,none,own,One,management,No default
+Good,100 - 500 DM,1 - 4 years,50,none,other,One,skilled,Default
+Good,< 100 DM,< 1 year,33,none,own,One,skilled,No default
+Good,Unknown,< 1 year,45,bank,other,One,skilled,No default
+Good,100 - 500 DM,unknown,22,none,own,One,skilled,Default
+Good,100 - 500 DM,< 1 year,48,none,other,One,unskilled,Default
+Good,> 1000 DM,< 1 year,29,bank,own,One,skilled,No default
+Very good,< 100 DM,1 - 4 years,22,bank,rent,One,skilled,No default
+Poor,< 100 DM,4 - 7 years,22,none,own,One,skilled,Default
+Perfect,Unknown,1 - 4 years,48,bank,own,One,management,No default
+Poor,Unknown,1 - 4 years,27,none,other,One,management,No default
+Critical,< 100 DM,1 - 4 years,37,none,rent,Three,skilled,No default
+Good,100 - 500 DM,1 - 4 years,21,none,rent,One,skilled,Default
+Good,< 100 DM,1 - 4 years,49,none,own,One,unskilled,No default
+Critical,< 100 DM,4 - 7 years,27,none,own,Two,skilled,No default
+Critical,< 100 DM,1 - 4 years,32,bank,own,Two,skilled,Default
+Good,Unknown,1 - 4 years,38,bank,own,One,skilled,Default
+Good,< 100 DM,< 1 year,22,none,rent,One,skilled,No default
+Good,< 100 DM,1 - 4 years,65,none,other,Two,skilled,Default
+Good,Unknown,< 1 year,35,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,41,none,own,One,skilled,No default
+Very good,100 - 500 DM,4 - 7 years,29,none,own,One,skilled,Default
+Critical,500 - 1000 DM,1 - 4 years,36,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,64,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,28,none,own,One,skilled,No default
+Very good,< 100 DM,1 - 4 years,44,bank,own,One,skilled,Default
+Good,Unknown,< 1 year,23,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,19,none,rent,Two,skilled,Default
+Good,< 100 DM,< 1 year,25,none,own,One,unskilled,Default
+Good,< 100 DM,< 1 year,47,bank,own,Three,skilled,No default
+Good,500 - 1000 DM,4 - 7 years,28,none,own,One,skilled,No default
+Poor,< 100 DM,4 - 7 years,21,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,34,none,own,One,skilled,No default
+Poor,< 100 DM,4 - 7 years,26,bank,own,Two,skilled,Default
+Good,< 100 DM,unknown,27,none,own,One,99,Default
+Good,< 100 DM,< 1 year,38,none,own,Two,unskilled,No default
+Good,100 - 500 DM,1 - 4 years,40,none,own,One,management,Default
+Critical,< 100 DM,4 - 7 years,33,none,own,Two,skilled,No default
+Critical,< 100 DM,4 - 7 years,32,none,own,Two,management,No default
+Poor,Unknown,< 1 year,27,none,rent,Two,skilled,Default
+Perfect,< 100 DM,1 - 4 years,32,none,own,Two,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,26,none,own,One,skilled,Default
+Good,< 100 DM,4 - 7 years,38,bank,other,One,skilled,Default
+Good,< 100 DM,1 - 4 years,40,none,rent,One,unskilled,Default
+Good,< 100 DM,4 - 7 years,50,none,other,One,management,No default
+Good,< 100 DM,1 - 4 years,37,none,own,One,unskilled,Default
+Good,< 100 DM,< 1 year,45,none,own,One,skilled,Default
+Poor,100 - 500 DM,< 1 year,42,none,own,Four,management,Default
+Critical,< 100 DM,4 - 7 years,35,none,own,Two,skilled,No default
+Good,< 100 DM,unknown,22,none,other,One,skilled,No default
+Good,< 100 DM,< 1 year,41,bank,own,One,unskilled,Default
+Good,Unknown,4 - 7 years,37,store,own,One,skilled,No default
+Perfect,< 100 DM,1 - 4 years,28,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,41,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,23,none,rent,One,skilled,No default
+Good,Unknown,1 - 4 years,23,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,50,none,own,Two,skilled,No default
+Poor,< 100 DM,unknown,35,store,own,Two,management,No default
+Critical,< 100 DM,1 - 4 years,50,none,own,One,unskilled,No default
+Critical,< 100 DM,unknown,27,bank,own,Two,management,No default
+Very good,> 1000 DM,1 - 4 years,34,store,own,One,skilled,No default
+Very good,< 100 DM,1 - 4 years,27,store,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,43,none,rent,Two,skilled,Default
+Critical,< 100 DM,< 1 year,47,none,own,One,skilled,No default
+Critical,100 - 500 DM,1 - 4 years,27,none,own,Two,unskilled,No default
+Good,100 - 500 DM,4 - 7 years,31,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,42,none,own,One,management,No default
+Critical,500 - 1000 DM,1 - 4 years,24,none,own,One,skilled,No default
+Poor,500 - 1000 DM,< 1 year,41,bank,own,One,unskilled,Default
+Critical,< 100 DM,4 - 7 years,26,none,rent,One,management,No default
+Critical,< 100 DM,< 1 year,33,none,own,One,skilled,No default
+Good,100 - 500 DM,1 - 4 years,24,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,64,bank,rent,One,unskilled,No default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,56,none,own,One,skilled,No default
+Good,Unknown,1 - 4 years,37,none,other,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,33,bank,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,47,none,other,Three,skilled,No default
+Poor,100 - 500 DM,4 - 7 years,31,none,own,Two,unskilled,No default
+Good,Unknown,1 - 4 years,34,none,other,One,skilled,No default
+Critical,Unknown,4 - 7 years,27,none,own,Two,skilled,No default
+Poor,100 - 500 DM,< 1 year,30,none,other,One,skilled,No default
+Good,100 - 500 DM,< 1 year,35,none,own,One,skilled,No default
+Good,> 1000 DM,1 - 4 years,31,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,25,none,own,Two,skilled,No default
+Good,100 - 500 DM,1 - 4 years,25,none,own,One,unskilled,No default
+Good,100 - 500 DM,< 1 year,29,none,own,One,skilled,No default
+Critical,Unknown,< 1 year,44,none,own,Two,unskilled,No default
+Good,< 100 DM,4 - 7 years,28,none,own,One,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,50,none,rent,One,skilled,No default
+Good,< 100 DM,4 - 7 years,29,none,own,Two,skilled,No default
+Critical,< 100 DM,unknown,38,none,own,One,99,No default
+Critical,< 100 DM,1 - 4 years,24,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,40,none,rent,One,management,No default
+Good,500 - 1000 DM,1 - 4 years,29,none,rent,One,unskilled,Default
+Critical,< 100 DM,< 1 year,46,none,other,Two,skilled,Default
+Good,100 - 500 DM,< 1 year,47,none,other,One,skilled,No default
+Poor,100 - 500 DM,< 1 year,41,store,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,32,none,own,One,skilled,No default
+Good,500 - 1000 DM,< 1 year,35,none,other,One,skilled,No default
+Good,100 - 500 DM,4 - 7 years,24,none,own,One,skilled,Default
+Perfect,< 100 DM,< 1 year,25,none,rent,Two,skilled,Default
+Good,< 100 DM,< 1 year,25,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,37,none,own,One,unskilled,No default
+Critical,500 - 1000 DM,< 1 year,32,bank,own,Two,management,No default
+Very good,< 100 DM,< 1 year,35,none,other,One,skilled,Default
+Good,Unknown,< 1 year,46,none,own,One,management,No default
+Critical,< 100 DM,1 - 4 years,25,none,own,Two,unskilled,No default
+Good,< 100 DM,4 - 7 years,27,none,own,One,management,Default
+Critical,Unknown,< 1 year,63,none,own,Two,skilled,No default
+Critical,Unknown,< 1 year,40,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,32,none,other,One,management,No default
+Critical,Unknown,1 - 4 years,31,none,own,Two,skilled,No default
+Perfect,100 - 500 DM,< 1 year,31,bank,own,Two,skilled,No default
+Perfect,< 100 DM,< 1 year,34,none,own,Two,management,Default
+Very good,> 1000 DM,< 1 year,24,bank,rent,One,skilled,Default
+Good,< 100 DM,1 - 4 years,24,none,own,One,unskilled,Default
+Good,500 - 1000 DM,1 - 4 years,66,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,21,none,rent,One,skilled,Default
+Critical,> 1000 DM,1 - 4 years,41,bank,own,Two,unskilled,No default
+Critical,500 - 1000 DM,1 - 4 years,47,none,own,Two,unskilled,No default
+Good,< 100 DM,1 - 4 years,25,bank,rent,Two,skilled,Default
+Very good,< 100 DM,< 1 year,59,none,rent,One,skilled,Default
+Critical,> 1000 DM,1 - 4 years,36,none,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,33,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,21,none,rent,One,unskilled,Default
+Good,< 100 DM,4 - 7 years,44,none,own,One,unskilled,No default
+Good,> 1000 DM,1 - 4 years,28,none,rent,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,37,none,own,One,skilled,No default
+Very good,Unknown,< 1 year,29,bank,own,One,99,No default
+Good,< 100 DM,1 - 4 years,23,none,rent,Two,management,Default
+Good,100 - 500 DM,1 - 4 years,35,none,own,One,unskilled,No default
+Critical,< 100 DM,4 - 7 years,45,none,own,Two,management,No default
+Perfect,100 - 500 DM,1 - 4 years,26,none,rent,Two,unskilled,Default
+Very good,100 - 500 DM,4 - 7 years,32,bank,own,One,skilled,No default
+Very good,< 100 DM,1 - 4 years,23,store,own,One,unskilled,No default
+Good,Unknown,< 1 year,41,none,own,One,skilled,No default
+Very good,500 - 1000 DM,1 - 4 years,22,store,own,One,skilled,No default
+Critical,Unknown,4 - 7 years,30,none,own,Two,management,No default
+Critical,< 100 DM,< 1 year,28,bank,own,Two,unskilled,No default
+Good,< 100 DM,unknown,23,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,37,none,own,One,unskilled,Default
+Good,Unknown,1 - 4 years,26,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,33,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,49,bank,own,One,skilled,No default
+Good,< 100 DM,< 1 year,23,none,own,One,unskilled,Default
+Good,100 - 500 DM,4 - 7 years,23,none,rent,One,unskilled,No default
+Critical,< 100 DM,4 - 7 years,25,none,own,Two,skilled,No default
+Poor,> 1000 DM,< 1 year,55,none,other,Two,skilled,Default
+Good,Unknown,4 - 7 years,32,none,rent,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,74,none,own,Three,99,No default
+Critical,Unknown,1 - 4 years,39,none,other,Two,skilled,Default
+Good,< 100 DM,1 - 4 years,31,none,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,35,none,own,Two,skilled,Default
+Critical,Unknown,< 1 year,59,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,24,none,rent,Two,skilled,Default
+Good,< 100 DM,1 - 4 years,24,none,own,One,unskilled,No default
+Critical,Unknown,< 1 year,30,none,other,One,management,Default
+Critical,100 - 500 DM,4 - 7 years,27,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,40,bank,own,Two,unskilled,No default
+Good,< 100 DM,< 1 year,31,none,own,One,unskilled,Default
+Good,Unknown,< 1 year,31,none,rent,One,skilled,No default
+Critical,< 100 DM,< 1 year,28,none,rent,Three,skilled,No default
+Critical,< 100 DM,< 1 year,63,none,own,Two,unskilled,No default
+Good,Unknown,< 1 year,26,none,rent,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,25,none,own,Two,management,Default
+Critical,< 100 DM,< 1 year,36,none,own,One,management,No default
+Critical,100 - 500 DM,< 1 year,52,bank,own,Two,skilled,No default
+Critical,500 - 1000 DM,unknown,66,bank,other,Three,99,No default
+Good,Unknown,1 - 4 years,25,none,rent,One,skilled,Default
+Critical,< 100 DM,4 - 7 years,37,none,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,25,none,own,One,skilled,No default
+Critical,> 1000 DM,< 1 year,38,none,own,Two,management,No default
+Good,< 100 DM,unknown,67,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,25,none,own,Two,skilled,Default
+Critical,> 1000 DM,< 1 year,60,none,own,One,skilled,No default
+Perfect,< 100 DM,1 - 4 years,31,none,own,One,unskilled,No default
+Good,100 - 500 DM,< 1 year,23,bank,own,One,unskilled,Default
+Good,Unknown,unknown,60,none,own,One,management,No default
+Good,> 1000 DM,1 - 4 years,35,none,own,One,unskilled,No default
+Good,500 - 1000 DM,< 1 year,40,none,own,One,skilled,No default
+Critical,Unknown,< 1 year,38,none,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,50,none,other,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,27,bank,own,One,skilled,Default
+Good,< 100 DM,< 1 year,39,none,own,One,skilled,Default
+Good,Unknown,< 1 year,41,none,own,One,management,No default
+Critical,Unknown,1 - 4 years,27,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,51,none,other,One,skilled,No default
+Good,500 - 1000 DM,< 1 year,32,none,rent,One,skilled,No default
+Good,100 - 500 DM,< 1 year,22,none,rent,One,skilled,No default
+Good,Unknown,< 1 year,51,none,other,One,skilled,Default
+Critical,< 100 DM,< 1 year,22,none,rent,Two,unskilled,No default
+Poor,Unknown,< 1 year,54,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,35,none,own,One,99,No default
+Critical,< 100 DM,< 1 year,54,none,other,Two,skilled,No default
+Critical,< 100 DM,< 1 year,48,bank,rent,Two,unskilled,No default
+Critical,< 100 DM,< 1 year,24,none,own,Two,skilled,No default
+Critical,Unknown,< 1 year,35,none,own,Two,skilled,No default
+Good,Unknown,unknown,24,none,rent,One,99,No default
+Good,< 100 DM,4 - 7 years,24,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,26,none,own,One,unskilled,No default
+Critical,Unknown,< 1 year,65,none,own,Four,skilled,No default
+Very good,< 100 DM,unknown,55,bank,other,One,management,No default
+Perfect,< 100 DM,< 1 year,26,none,rent,Two,99,Default
+Good,< 100 DM,< 1 year,26,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,28,bank,own,One,unskilled,No default
+Critical,< 100 DM,4 - 7 years,24,none,own,Two,skilled,Default
+Good,< 100 DM,1 - 4 years,54,none,own,One,skilled,Default
+Good,< 100 DM,4 - 7 years,46,none,other,One,skilled,Default
+Poor,< 100 DM,1 - 4 years,54,none,rent,One,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,62,none,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,24,none,rent,Two,skilled,No default
+Good,< 100 DM,unknown,43,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,26,bank,own,One,skilled,Default
+Good,< 100 DM,1 - 4 years,27,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,24,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,41,bank,own,One,skilled,Default
+Critical,< 100 DM,< 1 year,47,none,own,Two,unskilled,No default
+Critical,< 100 DM,< 1 year,35,none,own,Two,management,No default
+Critical,< 100 DM,< 1 year,30,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,33,bank,rent,Three,skilled,Default
+Perfect,< 100 DM,1 - 4 years,36,store,own,Two,skilled,Default
+Good,Unknown,< 1 year,47,none,other,One,skilled,Default
+Poor,Unknown,1 - 4 years,38,none,other,One,skilled,No default
+Poor,500 - 1000 DM,1 - 4 years,44,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,23,none,rent,One,skilled,Default
+Perfect,< 100 DM,< 1 year,29,none,rent,Two,skilled,Default
+Good,Unknown,< 1 year,42,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,25,none,own,One,unskilled,Default
+Perfect,< 100 DM,1 - 4 years,48,bank,own,Two,skilled,Default
+Good,Unknown,1 - 4 years,21,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,23,none,rent,One,unskilled,No default
+Critical,< 100 DM,< 1 year,63,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,46,none,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,29,none,own,One,skilled,Default
+Poor,< 100 DM,1 - 4 years,28,store,own,Two,unskilled,No default
+Good,< 100 DM,< 1 year,23,none,own,One,skilled,Default
+Very good,< 100 DM,4 - 7 years,50,bank,own,One,skilled,No default
+Good,< 100 DM,< 1 year,47,bank,own,Three,skilled,No default
+Good,Unknown,4 - 7 years,35,none,own,One,skilled,No default
+Good,Unknown,1 - 4 years,68,none,rent,Two,skilled,Default
+Good,< 100 DM,< 1 year,28,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,59,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,57,store,own,One,unskilled,Default
+Critical,< 100 DM,1 - 4 years,33,bank,rent,Two,skilled,Default
+Critical,Unknown,4 - 7 years,43,none,own,Two,skilled,No default
+Critical,< 100 DM,1 - 4 years,35,none,other,Two,skilled,No default
+Very good,< 100 DM,4 - 7 years,32,none,other,Two,unskilled,Default
+Poor,< 100 DM,< 1 year,45,none,own,Two,skilled,No default
+Good,100 - 500 DM,< 1 year,33,none,own,One,skilled,No default
+Good,Unknown,4 - 7 years,40,none,own,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,28,none,other,One,skilled,No default
+Good,< 100 DM,1 - 4 years,29,none,own,One,skilled,Default
+Good,100 - 500 DM,1 - 4 years,26,none,rent,One,skilled,No default
+Critical,> 1000 DM,1 - 4 years,27,none,own,Two,skilled,No default
+Poor,< 100 DM,1 - 4 years,28,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,35,none,own,One,skilled,Default
+Critical,> 1000 DM,< 1 year,32,store,own,Two,unskilled,No default
+Good,< 100 DM,1 - 4 years,25,bank,rent,One,unskilled,Default
+Good,500 - 1000 DM,1 - 4 years,20,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,27,store,own,One,skilled,No default
+Critical,< 100 DM,< 1 year,42,store,own,One,skilled,No default
+Good,Unknown,< 1 year,37,none,own,Two,skilled,No default
+Good,< 100 DM,< 1 year,24,none,rent,One,skilled,No default
+Poor,500 - 1000 DM,4 - 7 years,40,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,46,none,own,Two,skilled,No default
+Critical,100 - 500 DM,4 - 7 years,26,none,own,Two,skilled,No default
+Good,Unknown,< 1 year,24,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,29,none,own,One,unskilled,No default
+Critical,> 1000 DM,1 - 4 years,40,none,own,Two,skilled,No default
+Very good,< 100 DM,< 1 year,36,bank,other,One,management,No default
+Good,< 100 DM,< 1 year,28,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,27,none,other,One,management,Default
+Critical,Unknown,4 - 7 years,36,none,own,Two,skilled,No default
+Good,< 100 DM,4 - 7 years,38,none,own,One,management,No default
+Good,Unknown,1 - 4 years,48,none,other,One,skilled,No default
+Critical,Unknown,< 1 year,36,none,own,Two,skilled,No default
+Critical,< 100 DM,unknown,65,none,own,Two,99,No default
+Good,< 100 DM,4 - 7 years,43,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,53,none,own,One,skilled,Default
+Critical,Unknown,4 - 7 years,34,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,23,none,own,One,skilled,Default
+Critical,< 100 DM,< 1 year,34,none,own,Two,management,No default
+Very good,Unknown,< 1 year,40,bank,rent,Two,skilled,No default
+Critical,< 100 DM,< 1 year,43,store,own,Four,management,No default
+Critical,< 100 DM,< 1 year,46,none,own,Two,skilled,No default
+Critical,< 100 DM,1 - 4 years,38,bank,own,Two,unskilled,No default
+Critical,< 100 DM,1 - 4 years,34,none,own,Two,skilled,No default
+Critical,Unknown,1 - 4 years,29,none,own,Two,skilled,No default
+Poor,Unknown,4 - 7 years,31,store,own,One,management,No default
+Good,< 100 DM,< 1 year,28,none,rent,One,management,No default
+Critical,> 1000 DM,4 - 7 years,35,none,own,One,skilled,No default
+Good,Unknown,4 - 7 years,33,bank,rent,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,42,none,own,One,skilled,Default
+Critical,< 100 DM,< 1 year,43,bank,rent,One,skilled,Default
+Critical,Unknown,< 1 year,44,none,own,Two,skilled,No default
+Critical,Unknown,< 1 year,42,none,other,Two,skilled,No default
+Good,Unknown,1 - 4 years,40,none,rent,One,skilled,No default
+Good,< 100 DM,< 1 year,36,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,20,none,rent,One,management,No default
+Good,Unknown,4 - 7 years,24,none,own,One,unskilled,No default
+Good,Unknown,1 - 4 years,27,none,own,One,skilled,No default
+Poor,< 100 DM,< 1 year,46,none,own,Two,unskilled,No default
+Good,Unknown,1 - 4 years,33,none,own,One,unskilled,No default
+Poor,< 100 DM,1 - 4 years,34,none,own,Two,skilled,No default
+Critical,< 100 DM,< 1 year,25,bank,own,One,unskilled,Default
+Good,Unknown,< 1 year,25,none,own,One,skilled,No default
+Good,> 1000 DM,< 1 year,28,none,own,One,skilled,No default
+Very good,< 100 DM,1 - 4 years,31,none,rent,One,skilled,Default
+Perfect,< 100 DM,1 - 4 years,32,bank,own,One,management,Default
+Good,100 - 500 DM,1 - 4 years,32,none,own,One,skilled,No default
+Good,< 100 DM,< 1 year,68,bank,own,One,management,Default
+Good,100 - 500 DM,unknown,33,none,own,One,skilled,Default
+Good,< 100 DM,< 1 year,39,none,rent,One,management,Default
+Critical,< 100 DM,1 - 4 years,28,none,own,Two,skilled,No default
+Poor,500 - 1000 DM,4 - 7 years,37,none,own,One,management,No default
+Good,< 100 DM,< 1 year,22,none,rent,One,skilled,Default
+Good,< 100 DM,4 - 7 years,30,none,rent,One,skilled,No default
+Very good,< 100 DM,< 1 year,55,bank,own,One,skilled,Default
+Very good,< 100 DM,< 1 year,46,bank,own,Two,skilled,Default
+Critical,< 100 DM,< 1 year,21,none,rent,One,skilled,No default
+Good,< 100 DM,4 - 7 years,39,store,other,Three,skilled,Default
+Good,Unknown,< 1 year,58,none,own,One,skilled,No default
+Poor,< 100 DM,1 - 4 years,43,none,own,Two,unskilled,No default
+Good,< 100 DM,< 1 year,24,none,own,One,unskilled,No default
+Good,< 100 DM,< 1 year,22,none,own,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,30,none,own,Two,skilled,No default
+Critical,500 - 1000 DM,< 1 year,42,none,own,Two,skilled,No default
+Good,< 100 DM,1 - 4 years,23,bank,own,One,skilled,No default
+Poor,100 - 500 DM,< 1 year,30,store,own,Two,management,Default
+Good,< 100 DM,1 - 4 years,28,none,own,One,unskilled,Default
+Good,< 100 DM,< 1 year,30,none,rent,One,management,No default
+Good,< 100 DM,1 - 4 years,42,none,other,One,skilled,Default
+Critical,Unknown,1 - 4 years,46,none,own,Two,management,No default
+Good,Unknown,< 1 year,45,none,own,One,management,No default
+Good,< 100 DM,1 - 4 years,31,none,own,One,unskilled,No default
+Good,Unknown,4 - 7 years,31,store,own,One,skilled,No default
+Critical,< 100 DM,4 - 7 years,42,none,own,Three,unskilled,No default
+Good,< 100 DM,< 1 year,46,none,rent,One,skilled,No default
+Perfect,500 - 1000 DM,< 1 year,30,none,own,Two,skilled,No default
+Very good,500 - 1000 DM,< 1 year,30,none,other,One,skilled,Default
+Good,Unknown,unknown,38,none,own,One,management,No default
+Good,< 100 DM,< 1 year,43,none,own,One,unskilled,Default
+Good,100 - 500 DM,< 1 year,31,none,own,Two,skilled,Default
+Critical,< 100 DM,unknown,40,none,own,Three,99,No default
+Poor,< 100 DM,4 - 7 years,24,none,own,Two,skilled,Default
+Good,500 - 1000 DM,< 1 year,28,none,rent,One,skilled,Default
+Good,< 100 DM,unknown,26,none,own,Two,management,Default
+Good,< 100 DM,1 - 4 years,29,none,own,One,skilled,No default
+Critical,> 1000 DM,< 1 year,57,none,rent,Two,management,No default
+Critical,Unknown,< 1 year,49,store,own,Two,unskilled,No default
+Critical,< 100 DM,< 1 year,37,none,own,Three,unskilled,No default
+Good,< 100 DM,1 - 4 years,45,none,own,One,unskilled,Default
+Good,100 - 500 DM,< 1 year,30,none,other,One,skilled,No default
+Critical,< 100 DM,< 1 year,30,none,rent,Two,skilled,No default
+Poor,< 100 DM,1 - 4 years,47,none,own,Two,skilled,No default
+Good,Unknown,1 - 4 years,29,none,own,One,skilled,No default
+Good,500 - 1000 DM,< 1 year,35,bank,own,Two,skilled,Default
+Good,< 100 DM,< 1 year,22,none,own,One,unskilled,No default
+Good,Unknown,1 - 4 years,26,none,own,One,skilled,No default
+Critical,500 - 1000 DM,1 - 4 years,23,none,own,Two,unskilled,Default
+Good,< 100 DM,< 1 year,54,bank,rent,One,management,No default
+Good,Unknown,4 - 7 years,29,none,rent,One,skilled,No default
+Critical,< 100 DM,1 - 4 years,40,none,own,Two,unskilled,No default
+Good,100 - 500 DM,1 - 4 years,22,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,43,none,own,One,unskilled,No default
+Very good,< 100 DM,unknown,29,none,rent,Two,99,Default
+Good,< 100 DM,< 1 year,36,none,rent,One,skilled,Default
+Critical,< 100 DM,1 - 4 years,33,none,own,One,skilled,No default
+Good,500 - 1000 DM,1 - 4 years,57,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,64,none,own,One,skilled,No default
+Poor,Unknown,< 1 year,42,none,own,Two,skilled,No default
+Poor,< 100 DM,< 1 year,47,none,own,Two,unskilled,Default
+Very good,100 - 500 DM,1 - 4 years,25,none,rent,One,skilled,Default
+Critical,< 100 DM,4 - 7 years,49,none,own,One,skilled,Default
+Good,< 100 DM,unknown,33,bank,rent,One,management,Default
+Good,100 - 500 DM,1 - 4 years,28,bank,own,One,management,No default
+Good,< 100 DM,1 - 4 years,26,none,own,One,skilled,Default
+Critical,< 100 DM,4 - 7 years,30,none,own,Two,unskilled,No default
+Critical,< 100 DM,1 - 4 years,25,none,rent,Two,skilled,No default
+Perfect,< 100 DM,< 1 year,33,none,own,Two,skilled,No default
+Good,100 - 500 DM,unknown,64,none,own,One,skilled,No default
+Good,< 100 DM,unknown,29,none,other,One,management,No default
+Critical,< 100 DM,< 1 year,48,none,own,Two,unskilled,No default
+Critical,Unknown,< 1 year,37,none,own,Two,unskilled,No default
+Very good,100 - 500 DM,< 1 year,34,bank,own,One,unskilled,No default
+Good,Unknown,4 - 7 years,23,none,rent,Two,unskilled,No default
+Good,< 100 DM,unknown,30,none,own,One,management,No default
+Good,Unknown,< 1 year,50,none,own,One,skilled,No default
+Good,< 100 DM,4 - 7 years,31,none,own,One,unskilled,No default
+Good,< 100 DM,1 - 4 years,40,none,own,One,management,No default
+Good,< 100 DM,< 1 year,38,none,own,One,skilled,No default
+Good,< 100 DM,1 - 4 years,23,none,other,One,skilled,Default
+Critical,100 - 500 DM,unknown,27,none,own,One,skilled,No default
